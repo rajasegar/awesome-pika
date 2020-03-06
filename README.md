@@ -49,4 +49,4 @@
 
 ## Twitter
 - [Pika](https://twitter.com/pikapkg)
-- [Fred K Schott Benner](https://twitter.com/FredKSchott)
+- [Fred K Schott](https://twitter.com/FredKSchott)
