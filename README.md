@@ -6,7 +6,7 @@
 - [Official](#official)
 - [Related Projects](#related-projects)
 - [Articles](#articles)
-- [Talks/Videos](#talks/videos)
+- [Talks/Videos](#talksvideos)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Twitter](#twitter)
