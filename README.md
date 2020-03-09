@@ -50,6 +50,7 @@
 
 ## Podcasts
 - [Pika pkg on Syntax.fm](https://syntax.fm/show/212/pika-pkg)
+- [Bundle because you want to, not because you need to on ChangeLog](https://changelog.com/jsparty/69)
 
 ## Miscellaneous 
 
